@@ -9,7 +9,7 @@ The activity cards and star chart come from free community services that can rat
 dependable layer.
 -->
 
-<div align="center">
+<div align="left">
 
 # Jonathan Prisant
 
