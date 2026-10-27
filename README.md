@@ -82,15 +82,6 @@ Some plugins, such as prisant-powertools, also install in Codex with `codex plug
 
 - 🧰 **[pm-skills-mcp](https://github.com/product-on-purpose/pm-skills-mcp)** ![Maintenance](https://img.shields.io/badge/-Maintenance-8b5e3c?style=flat-square) ![release](https://img.shields.io/github/v/release/product-on-purpose/pm-skills-mcp?display_name=tag&style=flat-square&label=release)<br>The PM catalog as an MCP server
 
-<p align="center">
-  <a href="https://star-history.com/#product-on-purpose/pm-skills&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=product-on-purpose/pm-skills&type=Date&theme=dark">
-      <img src="https://api.star-history.com/svg?repos=product-on-purpose/pm-skills&type=Date" alt="Chart of pm-skills GitHub stars over time" width="560">
-    </picture>
-  </a>
-</p>
-
 All 8 projects, with install commands, release notes, and a status line for each, are on the [Product on Purpose page](https://github.com/product-on-purpose).
 
 ---
