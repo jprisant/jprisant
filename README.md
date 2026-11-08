@@ -124,7 +124,7 @@ All 8 projects, with install commands, release notes, and a status line for each
 
 - 🌱 **[3d-yard-spike-parametric-openscad](https://github.com/prisant-labs/3d-yard-spike-parametric-openscad)** ![Pre-release](https://img.shields.io/badge/-Pre--release-bc4c00?style=flat-square)<br>A parametric ground spike for posts and tubing that prints without supports
 
-All 14 projects, with install commands, release notes, and a status line for each, are on the [Prisant Labs page](https://github.com/prisant-labs).
+Every project, with install commands, release notes, and a status line for each, is on the [Prisant Labs page](https://github.com/prisant-labs).
 
 ---
 
